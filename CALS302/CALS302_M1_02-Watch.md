@@ -7,6 +7,7 @@ Try to imagine you’ve been handed a machine—sophisticated, intricate—that 
 
 ### Looking Back to Look Forward  
 Climate models don’t recreate the past like historical reenactments. Rather, they simulate how Earth’s climate system likely responded to known external forces—like greenhouse gases, volcanic eruptions, and solar changes. Take the 1991 eruption of Mount Pinatubo, which injected millions of tons of aerosols into the stratosphere. Individual model runs won’t reproduce the precise sequence of weather that followed. But when run many times under the same conditions, a pattern emerges—typically a drop in global temperatures and cooling of the stratosphere. The key is the ensemble: a range of outcomes that together define a climate envelope. If the real-world record falls within that envelope, the models have done their job. It’s not unlike Francis Galton’s famous bet, where a crowd’s average guess at a cow’s weight landed startlingly close to reality. In the same way, when simulations collectively capture what happened—even without exact precision—we gain confidence that the underlying physics are sound (IPCC, 2021a).
+
 ---
 
 ### Eyes on the Present  
