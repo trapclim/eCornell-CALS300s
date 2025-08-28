@@ -1,42 +1,62 @@
-# CALS301_C_M1_03 – Activity Page  
-**Title:** *Reading Earth’s Archive: Pace, Magnitude, and Meaning in Climate Proxy Records*
+# Activity: Distinguishing Contemporary Warming from Snowball Earth Cooling  
 
-In the pandemic, when we were all trapped at home, I decided to clean out the return vent for our HVAC system. It had been dirty for years. When I removed the cover, I found small red felt balls—cat toys. We got the cat in 2017 and those toys in 2018, so they must have fallen in sometime in the last two years. Beneath them were stickers. Beneath the stickers were broken crayons and small plastic toys from when our children were much younger. Farther back were objects I didn’t recognize at all. They must have belonged to the previous owners.
+The Earth has known both fire and frost. At times, it froze nearly solid—*Snowball Earth*—when ice smothered continents and seas, reflecting sunlight away until cold fed upon itself. At other times, warmth spread, as it does today, though never quite so swiftly.  
 
-That vent had become an archive. Things fell in, stayed put, and slowly built up a record. Earth has archives like this too: layers of sediment at the bottom of lakes, oceans, and ice sheets. They collect what falls from the world above—pollen, ash, dust, microscopic shells. Over time, they build a layered record of what was happening on the surface (Bradley, 2015; NOAA, n.d.; IPCC, 2021b).
-
-The things we measure in those archives—those are proxies. A certain type of pollen, the ratio of oxygen isotopes, the trace of a chemical—these are not direct observations, but they stand in for temperature, rainfall, or the presence of plants (IPCC, 2021b; Zachos et al., 2001). They give us clues. Put together, they let us reconstruct what the climate was doing, even thousands or millions of years ago.
-
-In this activity, you’ll examine three simplified climate proxy records. Each spans a different stretch of time:
-
-- **Record A**: 500 million years (Phanerozoic)  
-- **Record B**: 800,000 years (glacial–interglacial cycles)  
-- **Record C**: 12,000 years (Holocene to present)
+This activity asks you to see the difference between yesterday’s icy epochs and today’s fevered climb. The physics are the same—energy in, energy out—but the story is told in reverse. Snowball Earth was a planet trapped in reflection; today’s Earth is a planet wrapped in insulation. The first was undone by volcanic breath, releasing carbon dioxide that melted the ice (Pierrehumbert, 2010). The second is driven by us, releasing carbon in amounts so vast and sudden that nature’s checks cannot keep pace (Smil, 2017; Ault, 2020).  
 
 ---
 
-## For each record:
+## Part 1: Context  
 
-1. **Trend Tales** — Is the general pattern one of warming, cooling, oscillation, or stasis?  
-2. **Turning Points** — What major anomalies or transitions catch your eye?  
-3. **Measures of Movement** — Estimate the magnitude of change (amplitude) and the pace (rate).  
-4. **Time’s Telescope** — Consider scale: What feels “fast” or “slow” depends on the timescale. How does that shape your interpretation?
+- **Snowball Earth Cooling**: Albedo feedback amplified cold. White ice, spread wide, bounced sunlight back into space. Cold deepened until only volcanic emissions of greenhouse gases tipped the balance (Pierrehumbert, 2010).  
+- **Contemporary Warming**: Greenhouse gases amplify heat. As humans burn coal, oil, and gas, carbon dioxide thickens the air, slowing Earth’s release of infrared radiation. Melting ice darkens the surface, oceans drink in heat, and warming hastens (Ault, 2020).  
 
 ---
 
-## Final Prompt: A Modern Disturbance
+## Part 2: Questions  
 
-After reviewing these records, consider today. Why does modern climate change appear abrupt? Is it the size of the change, or how quickly it’s happening? Where does it fit in the broader story?
+**1. What was the primary feedback that deepened Snowball Earth’s global cooling?**  
+- A) Increasing solar radiation  
+- B) Expansion of ice cover reflecting sunlight  
+- C) Growth of forests absorbing CO₂  
+- D) Rising methane concentrations  
+- **Correct Answer: B**  
+  - **Feedback**: Ice expansion raised Earth’s albedo, reflecting more sunlight and reinforcing the cold.  
 
-> ✍️ Follow-up: How does this compare to warming seen during the Permian period, when natural carbon release drove slower—but devastating—climate change (IPCC, 2021b; Zachos et al., 2001)?
+**2. Which factor most distinguishes today’s warming from Snowball Earth’s cooling?**  
+- A) Today’s warming is driven by human activity  
+- B) Warming occurs only at the poles  
+- C) Today’s atmosphere contains no greenhouse gases  
+- D) Earth’s orbit is closer to the Sun  
+- **Correct Answer: A**  
+  - **Feedback**: Unlike ancient cooling, modern warming arises from human industry, not slow geologic cycles.  
+
+**3. If ice continues to melt today, which feedback loop will strengthen warming?**  
+- A) Oceans reflecting more sunlight  
+- B) Volcanoes increasing CO₂  
+- C) Darker surfaces absorbing heat  
+- D) Earth’s orbit changing  
+- **Correct Answer: C**  
+  - **Feedback**: With less ice, oceans and land absorb more sunlight, accelerating warming.  
 
 ---
 
-## References (APA7)
+## Part 3: Reflection Prompt  
 
-Bradley, R. S. (2015). *Paleoclimatology: Reconstructing climates of the Quaternary* (3rd ed.). Academic Press.  
-IPCC. (2021a). *Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change* (Chapter 2: Observed Climate). Cambridge University Press. https://www.ipcc.ch/report/ar6/wg1/  
-IPCC. (2021b). *Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change* (Chapter 5: Paleoclimate). Cambridge University Press. https://www.ipcc.ch/report/ar6/wg1/  
-NOAA. (n.d.). *Paleoclimatology Data*. National Centers for Environmental Information. https://www.ncei.noaa.gov/access/paleo/  
-Zachos, J. C., Pagani, M., Sloan, L., Thomas, E., & Billups, K. (2001). Trends, rhythms, and aberrations in global climate 65 Ma to present. *Science*, 292(5517), 686–693. https://doi.org/10.1126/science.1059412
+Why is today’s climate change not just another swing of Earth’s natural pendulum? In your response, consider both the **speed** of the shift and the **cause**.  
 
+---
+
+## Outro  
+
+Snowball Earth unfolded over millions of years, its icy stillness broken slowly by volcanoes. Today’s warming unfolds in mere centuries, lit by the fires of industry. To confuse the two is to mistake a glacier’s crawl for a wildfire’s rush. This distinction matters, for while the past was nature’s doing, the present is ours—and so is the responsibility.  
+
+---
+
+## References  
+
+Ault, T. (2020). *Night at the Museum Cleaned Transcripts* [Lecture transcript]. PRI / Cornell University.  
+
+Pierrehumbert, R. T. (2010). *Principles of Planetary Climate*. Cambridge University Press.  
+
+Smil, V. (2017). *Energy and Civilization: A History*. MIT Press.  
