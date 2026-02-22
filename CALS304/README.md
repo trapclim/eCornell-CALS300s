@@ -1,6 +1,6 @@
 Module 1: Examine the Evolution of Energy Systems and Their Impact on Modern Consumption
-CALS304_M1_01
-CALS304_C_M1_01
+CALS304_M1_01 
+CALS304_C_M1_01 
 CALS304_C_M1_02
 CALS304_M1_02
 CALS304_C_M1_03
