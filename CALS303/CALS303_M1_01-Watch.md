@@ -160,7 +160,7 @@ Government representatives and lead authors go line by line and approve every si
 
 Including the United States.
 
-Including oil-rich nations.
+As well as many other oil-rich nations.
 
 ---
 
