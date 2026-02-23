@@ -1,83 +1,181 @@
-# Trace Raw Data through Review Pipelines to Achieve Global Climate Consensus
+# Trace Raw Data through Review Pipelines to Achieve Authoritative Climate Assessments
 
-## Intro
+Over the next few lessons, I’d like for you to have a deeper appreciation for the enormous amount of work that goes into every single statement, every chapter, of every Intergovernmental Panel on Climate Change assessment report.
 
-Climate science doesn't begin with consensus. It begins in the field, in
-the lab, and in long, methodical processes that take years before they
-ever reach the headlines. Reports like the IPCC don't create
-knowledge---they synthesize it.
+---
 
-In this video, we'll walk that path from raw observations and individual
-studies to the structured review processes that transform science into
-something decision-makers can act on. We'll ground this in a concrete
-example from my own research, so you can see how rigor and discipline
-knit together across scales---from a single tree core to global
-assessments.
+IPCC reports do not include new studies.
 
-------------------------------------------------------------------------
+Instead, they assess what has already been published.
 
-## Main Body
+---
 
-Back when I studied megadroughts---decades-long droughts across North
-America---I relied on data from tree rings: slivers of wood that quietly
-record centuries of climate history.
+To show you what this looks like in practice, I want to walk you through the life cycle of my first paper to be assessed and cited in the 2013 IPCC report.
 
-Here's a photo my friend Scott St. George took during fieldwork. We were
-using a Swedish increment borer---an old forestry tool---to core trees
-without harming them. We didn't just count rings; we collected samples
-across species and ages to reconstruct how ecosystems responded to
-temperature and rainfall changes over time.
+---
 
-Once those cores returned to the lab, the work got meticulous. Samples
-were sanded, scanned, and measured under microscopes---ring by ring.
-Students and colleagues cross-dated samples, counted rings backward
-through time, and spent hours aligning timelines. But raw ring widths
-can't be used directly. Trees grow thicker rings when young, thinner
-when older. So we "detrended" the data to isolate the climate signal.
+But before we can even talk about that paper, we need to step back more than a century into the history of tree-ring research at the University of Arizona and elsewhere.
 
-What you get then are standardized indices, which are combined into
-chronologies---averaged across trees and sites. Even producing one
-chronology takes weeks or months. Now scale that up. Reconstructing
-something like the North American Drought Atlas required hundreds of
-these chronologies, and tens of thousands of individual measurements.
+Because that history helps us internalize how much data gets condensed and distilled into those reports.
 
-That's just one pole of climate science. On the other end are climate
-models---sophisticated computer tools developed by thousands of
-researchers to simulate Earth's climate under different emissions
-scenarios. In our case, we married these two pillars: paleoclimate
-reconstructions and model projections. By comparing past megadroughts to
-simulated future drought risk, we could assess whether the coming
-decades might resemble---or exceed---conditions not seen for centuries.
+---
 
-This is where the IPCC enters. About every six to seven years, the IPCC
-convenes expert teams to assess all peer-reviewed research published
-since the last report. They don't generate new data; they synthesize it.
-Every study included has already gone through its own long journey of
-proposal, analysis, peer review, revision, and publication.
+Tree-ring researchers, like my friend and collaborator Justin St. George, go out with what’s called a Swedish coring device and take samples from many trees in a given area.
 
-When IPCC authors gather this body of literature, they identify where
-studies agree, where they differ, and where uncertainty persists. These
-assessments are compiled into chapter-length reports, and each chapter
-goes through multiple rounds of expert and government review. Every
-substantive comment must be addressed. Nothing moves forward casually.
+---
 
-The most visible product of this process is the Summary for Policymakers
-(SPM). It condenses hundreds of pages into a few, but every sentence
-must be traceable back to the underlying chapters. Scientists and
-government representatives review the SPM line by line. The result is a
-shared, rigorously constructed statement of what the evidence
-supports---and where uncertainty remains.
+Sites are selected because the trees growing there are especially sensitive to moisture and drought, or sensitive to temperature.
 
-------------------------------------------------------------------------
+They either put on thicker rings when it’s wet, or when the growing season is warmer and longer — or some combination of both.
 
-## Outro
+---
 
-The value of climate assessments lies not just in their data or results,
-but in the rigor of their construction. Think of it like a
-cathedral---built one brick at a time, over generations, with care and
-collaboration. The discipline that shapes each study, and shapes the
-synthesis process, is what gives these assessments their authority.
+Once the cores are collected, they’re brought back to the lab and sanded down with enormous care.
 
-In the next video, we'll look under the hood at how chapter authors are
-selected and how reviews and drafts are constructed---because when
-science serves policy, the process matters as much as the product.
+You have to be able to see definitively where each annual growth band starts and stops.
+
+---
+
+After that, the rings are measured carefully and precisely.
+
+---
+
+Then comes cross-dating.
+
+Ring patterns are matched across many trees to ensure each ring corresponds to the correct calendar year.
+
+---
+
+Next, researchers remove age-related growth trends through a process called detrending.
+
+This is required because trees grow more slowly as they age.
+
+---
+
+They shift energy toward reproduction.
+
+And as the tree gets larger, it takes more biomass to put on a ring of equal width, simply because the radius is larger.
+
+---
+
+If we didn’t account for those biological patterns, we wouldn’t be able to tell whether trends were caused by climate or by the life cycle of the tree.
+
+---
+
+After the indices are detrended, scientists generate standardized indices for a given site and combine cores of different lengths using statistical tools.
+
+This reduces the noise from any given tree and emphasizes the shared signal.
+
+---
+
+When multiple ring-width indices are detrended and combined at a site, that’s called a chronology.
+
+---
+
+But that’s only the beginning.
+
+Scientists then collect chronologies from many locations to reconstruct variables of interest — like drought or temperature — over centuries or millennia.
+
+---
+
+One of the most important reconstructions for North America is the North American Drought Atlas.
+
+Ed Cook and collaborators, beginning in the late 1990s and early 2000s, identified periods called multidecadal megadroughts — prolonged droughts unlike anything seen during the 20th century.
+
+---
+
+A number of papers have been written about these megadroughts using millions of tree-ring measurements and hundreds of chronologies.
+
+---
+
+Our paper took a statistical view of the problem to understand the return interval of megadroughts in the absence of anthropogenic climate change.
+
+---
+
+Getting it published was brutal.
+
+One reviewer wrote that all of the authors had written extensively and insightfully on megadrought, which is why they found this effort disappointing.
+
+---
+
+We revised it. Improved it. Went through peer review.
+
+It was published in 2013 and later cited in the paleoclimate chapter of the IPCC report.
+
+---
+
+Our paper, along with eleven others, was used to support one single claim.
+
+One sentence.
+
+In one paragraph.
+
+In one section.
+
+Of one chapter.
+
+Of Working Group I.
+
+---
+
+Those twelve papers rested on hundreds of other studies.
+
+Thousands of tree-ring chronologies.
+
+Tens of thousands of trees.
+
+And millions of measurements.
+
+---
+
+And this isn’t just paleoclimate.
+
+Instrumental data — precipitation gauges, temperature measurements, pressure records — go through the same process.
+
+---
+
+Lake cores.
+
+Cave deposits.
+
+Climate model simulations.
+
+The software used to generate projections.
+
+All of it goes through a rigorous, iterative, long peer-review process just to enter the literature.
+
+Then it is assessed again by the IPCC.
+
+---
+
+At the end of that process, each working group produces what’s called the Summary for Policymakers.
+
+---
+
+Every sentence in that summary must be traceable back to the underlying chapters and supporting literature.
+
+---
+
+Government representatives and lead authors go line by line and approve every single statement.
+
+Including the United States.
+
+Including oil-rich nations.
+
+---
+
+They must agree that the science documented in the IPCC supports the claims made in the Summary for Policymakers.
+
+---
+
+It is this enormously rigorous scientific process — with multiple rounds of revision, improvement, and consensus building — that gives climate assessments their authority.
+
+---
+
+The strength of the conclusions does not rest on any single study or single dataset.
+
+It rests on the convergence of independent lines of evidence examined repeatedly under rigorous scrutiny.
+
+---
+
+And remember, because governments have the opportunity to soften language, anything that survives that final approval stage must be extremely scientifically robust.
