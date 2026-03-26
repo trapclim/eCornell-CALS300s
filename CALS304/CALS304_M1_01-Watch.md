@@ -10,6 +10,8 @@ occupied much of the landscape. Among them was *Australopithecus* — one
 of the first to walk upright. You may have heard of Lucy, the so-called
 “missing link.” She was an Australopithecus.
 
+[Lucy]
+
 These were not humans in the way we would recognize ourselves. But they
 were upright. They used tools. And like every organism before them, they
 lived entirely within the limits of energy.
@@ -17,9 +19,11 @@ lived entirely within the limits of energy.
 Energy is the capacity to do work — to move something, heat something,
 transform something. Without energy, nothing happens. In physics, we
 measure energy in **joules**. Think of a joule as a tiny jelly bean
-sitting in a jar. One jelly bean does nothing on its own. But if you eat
+half the size of a grain sugar. One jelly bean does nothing on its own. But if you eat
 it — if your body converts its sugars into heat, motion, or thought —
 energy is released.
+
+[Joule Definition]
 
 One joule isn’t much. But civilization runs on unfathomable piles of
 them.
