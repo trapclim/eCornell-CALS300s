@@ -7,7 +7,6 @@
 
 ### Intro (15–30 seconds)
 
-[Visual: a narrow mine path; a figure climbing with a heavy load; the thud of boots; then a dim lamp flame]
 
 Imagine carrying fuel the way you carry groceries—only it’s coal, and it’s on your back. Before modern supply chains, energy was physical: muscles turned food into motion, and motion moved the fuel that kept homes and workshops running.
 
@@ -15,25 +14,22 @@ That scene points to a larger pattern. Vaclav Smil is careful with the word **tr
 
 ### Body (~4 minutes)
 
-[Visual: overlapping bands on a timeline—wood, coal, oil—none dropping to zero]
 
 Whale oil once felt essential because it traveled well and produced the kind of light people wanted. It fit an economy still limited by wind, water, wood, and muscle. But rising demand pressed against hard ceilings: ecology, distance, danger, and time.
 
 Coal offered a different promise: dense, storable energy that could expand with mines rather than migrations. Across modern history, Smil describes a broad fossil-fuel sequence—**coal first, then crude oil, then natural gas**—each step widening the scale of energy use (Smil, 2010; Smil, 2020).
 
-[Visual: simple “energy density” graphic—more energy per mass/volume]
 
 Coal’s higher energy density mattered because it made transport and storage more practical. A fuel that packs more energy per kilogram is easier to move, easier to stockpile, and easier to feed into machines at scale. But coal did not begin with machines everywhere. Early coal systems depended on people and animals to mine, haul, and handle the fuel.
 
 Then coal began to change the terms.
 
-[Visual: steam pump draining a mine; railcars filling; gears turning]
 
 Coal powered pumps that kept mines workable, engines that hauled heavier loads, and rail lines that carried fuel far beyond what carts could manage. Over time, coal did more than provide energy. It built an industrial base—steel, rails, factories, ports—that supported larger extraction and wider distribution.
 
 This is the key point: a fuel is not only a substance you burn. It comes with prime movers, machines, supply chains, and infrastructure, and those spread gradually (Smil, 2016).
 
-[Visual: coal shoveled into a boiler vs. oil flowing through a pipe; then a piston engine cycling]
+
 
 Oil enters that built world with advantages that are straightforward.
 
@@ -41,7 +37,7 @@ Coal is solid. It must be lifted, shoveled, stored, and fed. Oil is liquid. Liqu
 
 It’s tempting to tell a simple story here—oil arrives, coal retreats. The more accurate story is overlap.
 
-[Visual: steel mill glow; drilling rig assembly; rail lines to an oil field; port cranes]
+
 
 Oil’s rapid growth relied on coal’s earlier work.
 
@@ -53,7 +49,6 @@ Smil’s caution fits neatly here: transitions are “continuously unfolding,”
 
 ### Conclusion (~30 seconds)
 
-[Visual: layered foundation graphic—older systems supporting newer ones]
 
 So the point isn’t that coal “failed” and oil “won.” It’s that energy systems overlap for a long time, and newcomers grow by leaning on what already exists—machines, capital, labor, and infrastructure.
 
