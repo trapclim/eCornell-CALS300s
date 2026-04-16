@@ -182,4 +182,3 @@ Renewables are still a small percentage, and all they are doing is lifting some 
 
 But we have not yet figured out how to construct a new energy system that either functions completely differently, with diffuse and intermittent renewable energy sources at the periphery, or uses more creative solutions for storage that allow the baseload to be met by renewables.
 
-If you want, I can do one more pass to make this sound a little more polished and lecture-ready while still keeping it close to your original wording.
