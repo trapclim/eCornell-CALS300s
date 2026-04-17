@@ -1,103 +1,109 @@
 # Address Renewable Intermittency with Scalable Storage
 
-Modern energy discussions often begin with a simple observation: the sun
-delivers more energy to Earth in an hour than humanity consumes in a
-year. The statement is accurate. But availability is not the same as
-usability.
+Toward the end of the previous lesson, I made some broad, somewhat hand-wavy statements about energy storage solutions.
 
-Even if land use, transmission expansion, and power density challenges
-are addressed, a further constraint remains. Renewable energy is
-intermittent. Modern societies are not.
+I want to explain why those energy storage solutions are going to be critical as we navigate any transition to renewables.
 
-The central issue is timing.
+I also want to give you a quick snapshot of some of the storage options that are already being used and tested at small to medium scales.
 
-Electric grids must balance supply and demand continuously. Hospitals,
-data centers, transportation systems, and industrial facilities require
-steady power. Interruptions carry economic and social costs.
+Many of these technologies have matured over the last decade or so.
 
-Wind turbines and solar panels produce electricity only when
-environmental conditions permit. That variability is inherent. It
-reflects atmospheric processes, not technological inefficiency.
+They do not all need to be lithium-ion batteries.
 
-Capacity factor helps quantify this difference. Nuclear facilities often
-exceed 90 percent. Fossil fuel plants commonly operate between 50 and 80
-percent. Wind and solar installations typically range from 20 to 40
-percent, depending on location (Smil, 2017).
+Lithium-ion batteries are great if you need a lightweight and energy-dense storage system, like a battery for a cell phone or an electric vehicle.
 
-The distinction is not simply one of output. It is one of consistency.
+But traditional lead-acid batteries can be scaled for industrial applications.
 
-For more than a century, industrial systems have relied on fuels that
-can be stored and dispatched as needed. Coal could accumulate near
-factories. Oil could move through pipelines and tankers. Gas could be
-released in response to demand fluctuations (Smil, 2010).
+There are also many other ways to store energy.
 
-Sunlight and wind cannot be stored before conversion. Their availability
-fluctuates hourly, daily, and seasonally.
+For example, flywheels can be used with wind turbines. When there is excess wind, the system spins up a flywheel, storing energy as rotational motion that can later be used to generate electricity.
 
-Regional variation complicates the picture further. Solar generation in
-Arizona differs from northern Europe. Wind regimes vary across coastal
-and inland regions. Demand patterns differ between summer cooling peaks
-and winter heating loads.
+Air compression is another simple and low-cost solution. When there is surplus wind or solar energy, air can be compressed.
 
-Managing this variability requires accurate forecasting, flexible
-generation resources, expanded transmission capacity, and real-time grid
-management.
+When the wind dies down or the sun sets, that compressed air can be released to spin a turbine and continue generating electricity.
 
-At modest renewable penetration levels, these measures can maintain
-stability. As the share increases, the system must absorb larger
-fluctuations.
+Pumped hydro is another important and already widely tested approach, especially in North America and Western Europe.
 
-This is where storage becomes essential.
+When there is excess renewable energy, that electricity can be used to pump water uphill into a reservoir.
 
-Storage shifts energy across time. It allows surplus generation during
-periods of high output to offset deficits during periods of low
-production.
+Then, when the sun is not shining or the wind is not blowing, that stored water can be released to generate electricity again.
 
-Existing large-scale storage technologies include pumped hydroelectric
-systems, lithium-ion batteries, and compressed air energy storage.
-Pumped hydro remains the most significant globally. Lithium-ion
-batteries provide rapid response for short-duration balancing.
-Compressed air systems store pressurized air underground for later
-electricity generation.
+Hydrogen fuel cells are another option that tend to move in and out of popularity.
 
-The challenge is scale.
+Hydrogen gas has a very high energy density, which has historically made it both powerful and, at times, dangerous.
 
-Short-duration storage can stabilize daily variability. But high
-renewable penetration introduces longer gaps. Multi-day wind lulls,
-extended cloud cover, and seasonal shifts reduce generation for
-sustained periods.
+However, hydrogen is also relatively easy to produce.
 
-Bridging these intervals requires storage measured in gigawatt-hours
-and, in some cases, terawatt-hours.
+Using electricity, you can split water into hydrogen and oxygen.
 
-Energy transitions are infrastructural processes. They unfold over
-decades because physical systems are cumulative. Power plants,
-transmission lines, pipelines, and storage facilities represent
-long-lived capital investments that cannot be replaced rapidly without
-economic disruption (Smil, 2016).
+The hydrogen can then be stored and later used in fuel cells to generate electricity.
 
-A low-carbon system must preserve reliability while reducing emissions.
-That objective requires more than installing generation capacity. It
-requires buffering systems capable of managing variability without
-compromising stability.
+The challenge with hydrogen is that it is such a small atom that it is often called an “escape artist.”
 
-The question is not whether renewable energy is abundant. It is.
+It is difficult to store for long periods because it can leak out of storage systems and even penetrate materials, making them more brittle over time.
 
-The question is whether the supporting infrastructure---storage,
-transmission, forecasting, and coordination---can be built at sufficient
-scale, at acceptable cost, and within realistic timeframes.
+Despite these challenges, hydrogen fuel cell technology remains very promising.
 
-Abundance does not guarantee reliability. Reliability must be
-engineered.
+It offers high energy density, low weight, and does not require mining rare earth minerals.
 
-------------------------------------------------------------------------
+It can also be produced using renewable energy systems.
 
-## References
+Those are just a few storage options.
 
-Smil, V. (2010). *Energy transitions: History, requirements, prospects*.
-Praeger.
+One that I like to joke about with students uses what I would call “embarrassingly simple” or “roller coaster” technology.
 
-Smil, V. (2016). *Energy and civilization: A history*. MIT Press.
+The idea is straightforward: you lift a mass above the surface of the Earth, storing energy as gravitational potential energy.
 
-Smil, V. (2017). *Grand transitions: How the modern world was made*.
-Oxford University Press.
+You can do this using cables, rails, or other mechanical systems.
+
+When there is surplus energy, you lift the mass.
+
+When demand increases, you let that mass fall slowly, using the motion to spin a turbine and generate electricity.
+
+This approach is not very efficient, but it can work if you have enough space.
+
+Places like offshore wind environments, desert regions, and parts of the Midwest—especially the Great Plains—have excellent wind and solar resources and could potentially support systems like this.
+
+However, this brings up another problem: transmission.
+
+The places where electricity is most abundant are often far from where it is most needed.
+
+Electricity demand is highest in cities, and the highest population densities in the United States and around the world are often located along coasts.
+
+We see this even in New York State.
+
+The areas with available land and hydropower resources in upstate New York are far from the major population centers downstate, like New York City.
+
+Similarly, the excellent wind and solar resources in the Great Plains are far from the population centers on the East and West Coasts, and in the West they are separated by the Rocky Mountains.
+
+Transmission lines lose energy over long distances.
+
+In some cases, somewhere between 25% and 40% of electricity can be lost during transmission.
+
+At this point, I cannot tell you exactly what the energy systems of the future will look like, and neither can anyone else.
+
+You will have to imagine them for yourself.
+
+What I can tell you is that the most common ideas from students in this class, which I have been teaching for about a decade, tend to fall into two broad categories.
+
+The first idea is to rebuild the grid so that it is better suited to handle inputs from intermittent and diffuse renewable energy sources.
+
+This often involves building smaller, more autonomous, decentralized systems.
+
+In these systems, solar panels and wind turbines located in communities, farms, or suburbs generate enough energy locally to meet demand.
+
+Energy can then be stored in local batteries or power banks.
+
+The second idea is to develop large-scale, portable, rechargeable, low-cost batteries.
+
+These batteries could be charged in places where renewable energy is abundant, such as the Great Plains or offshore wind farms.
+
+They could then be transported using existing infrastructure, like shipping routes or railways, similar to how fossil fuels are currently moved.
+
+These batteries could be delivered to former coal or oil plants and integrated into the existing energy system with minimal changes.
+
+But what do you think?
+
+What other ideas do you have?
+
+Because it is very likely that some of the solutions that will be commonplace a century from now have not even been imagined yet.
