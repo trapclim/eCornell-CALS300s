@@ -54,7 +54,7 @@ And before long, the growth slowed down, even though the technology was maturing
 
 Environmental protection stepped in to maintain systems as they were and to block new dams.
 
-The world’s last major, I should say massive, hydropower investment was the Three Gorges Dam in China, a whopping 2,000-terawatt facility.
+The world’s last major, I should say massive, hydropower investment was the Three Gorges Dam in China, a whopping 22,000-megawatt facility.
 
 A similar story played out with nuclear energy, but for different reasons.
 
