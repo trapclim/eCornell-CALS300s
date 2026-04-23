@@ -1,155 +1,105 @@
 # CALS304_M4_02 --- Watch
 
-## Address Manufacturing Gaps in Renewable Energy Deployment
+If we want to have an energy system that’s clean, safe, and reliable, with very low CO2 emissions, we’re going to have to build it.
 
-### Introduction
+And to build it, we’re going to have to manufacture every component of that system from minerals and elements that are, in all likelihood, under the earth today.
 
-Ambitious renewable deployment targets are now widespread. Capital
-commitments are measured in trillions of dollars. Legislative frameworks
-continue to expand.
+Mining, mineral extraction, and manufacturing are not major bottlenecks yet, but to build the infrastructure we need, they will be.
 
-Yet large-scale energy transitions are not implemented through policy
-declarations alone. They depend on the expansion of physical industrial
-systems.
+Consider this.
 
-The primary constraint on renewable deployment is manufacturing capacity
-and the supply chains that support it. Energy transitions are material
-reorganizations. Their pace is governed by the rate at which industrial
-infrastructure can be built and integrated (Smil, 2017; Smil, 2022).
+Most of us touch smartphone screens that contain more elements than were even known to exist a century and a half ago.
 
-------------------------------------------------------------------------
+Not only that, we need to be mindful of the fact that I’ve introduced several times now, that every energy transition is built or subsidized with whatever the dominant energy source of the day is.
 
-### Energy Systems as Industrial Systems
+And because we live in a global economy that is overwhelmingly energized by fossil fuels, there are some unavoidable CO2 emissions required just to build solar panels, wind turbines, geothermal facilities, and more hydropower if we’re going to go that route.
 
-Historical transitions demonstrate this pattern clearly. The rise of
-coal required expansion of mining, rail transport, iron production, and
-steam engines. Oil required drilling technologies, refineries, and
-global distribution networks. Electrification required turbine
-manufacturing and copper-intensive transmission grids (Smil, 2017).
+Global manufacturing of renewables is growing exponentially, but it is dominated by just a few countries and concentrated unevenly throughout the world.
 
-These transformations unfolded over decades because they required
-synchronized industrial growth.
+China now controls over 80% of global photovoltaic manufacturing, and its manufacturing capacity exceeds current demand.
 
-Renewable technologies require comparable industrial inputs. Solar
-modules depend on high-purity polysilicon processing. Wind turbines
-require steel, concrete, and rare earth permanent magnets. Batteries
-require lithium, nickel, cobalt, graphite, and advanced chemical
-manufacturing. Transmission expansion requires substantial copper and
-aluminum inputs.
+China also leads in battery production and export.
 
-Global manufacturing capacity is geographically concentrated. According
-to the International Energy Agency (IEA, 2023), over 80% of solar
-photovoltaic manufacturing capacity is located in a small number of
-countries, with China playing a dominant role in polysilicon, wafer, and
-module production. Battery manufacturing capacity is similarly
-concentrated.
+The U.S. and Europe still rely heavily on imports from China, which means that regions without their own sources of manufacturing are facing higher costs and slower deployment, and they depend on imports.
 
-This concentration introduces structural constraints. Manufacturing
-facilities cannot be replicated rapidly. Mining projects often require
-10--15 years from discovery to production (IEA, 2023). Workforce
-development and industrial permitting processes introduce additional
-delays.
+Countries with lower GDP are competing with countries like the U.S. and Western Europe to develop their energy infrastructure.
 
-Energy transitions proceed at the rate permitted by industrial
-reconfiguration.
+They just might not have the resources to fully deploy renewables, in which case they may turn to coal.
 
-------------------------------------------------------------------------
+Again, I can’t recommend enough the work of Vaclav Smil on energy transitions, but if you’re not going to read it, I want to highlight another key idea.
 
-### Adoption Patterns and Supply Chain Constraints
+Energy transitions tend to follow an S-shaped curve pattern.
 
-New energy sources historically follow S-shaped adoption curves: slow
-early growth, accelerated expansion once scale is achieved, and eventual
-stabilization (Smil, 2017).
+Sometimes it’s called the sigmoidal curve, or as Smil puts it, no tree can grow to heaven.
 
-Coal required more than half a century to dominate primary energy supply
-in industrial economies. Oil followed a similar trajectory. Even nuclear
-power expanded gradually despite strong state support.
+That means that early on, there is slow growth.
 
-Current mitigation scenarios require much faster deployment rates. The
-IPCC (2022) notes that limiting warming to 1.5°C requires rapid scaling
-of renewable capacity and electrification within the next two to three
-decades.
+We’ve seen that for the last 20 years.
 
-However, renewable manufacturing depends on critical minerals that are
-geographically concentrated. The U.S. Geological Survey (USGS, 2023)
-reports that processing of rare earth elements and battery minerals is
-concentrated in a limited number of regions. Lithium refining capacity,
-for example, is heavily clustered.
+Then we hit the exponential phase.
 
-The IEA (2023) projects that demand for lithium and other critical
-minerals could increase several-fold under net-zero scenarios. Supply
-disruptions, trade restrictions, or geopolitical instability can
-therefore slow deployment regardless of policy ambition.
+That’s where we are now in many parts of the world.
 
-Rapid scaling increases short-term material demand and may strain
-environmental governance systems. Slower scaling reduces material stress
-but prolongs fossil fuel dependence.
+Costs decline as economies reach scale.
 
-Industrial timelines and climate timelines do not automatically align.
+Adoption accelerates.
 
-------------------------------------------------------------------------
+As these industries mature, growth stabilizes.
 
-### Manufacturing Concentration and Strategic Implications
+This is what we saw with internal combustion engines and nuclear power.
 
-The concentration of renewable manufacturing has strategic consequences.
-Import-dependent nations face exposure to export controls, price
-volatility, and supply chain disruptions.
+We saw it with oil and gas, internal combustion engines, diesel engines before, during, and after World War II, airlines, electric grids, and natural gas in the early 2000s through the 2020s.
 
-In response, industrial policy has re-emerged as climate policy. The
-expansion of domestic clean energy manufacturing capacity in North
-America and Europe reflects recognition that energy systems are
-strategic assets (IEA, 2023).
+It’s a pattern that plays out again and again.
 
-Energy transitions historically reshaped industrial leadership over
-decades (Smil, 2022). Comparable shifts are likely during the renewable
-transition. Large-scale coordination is required across mining,
-refining, fabrication, logistics, and grid integration.
+But building renewable energy is going to require complex global supply chains.
 
-The scale of transformation required is substantial. Deep
-decarbonization entails replacing high-energy-density fossil fuel
-systems with extensive distributed infrastructure, including generation
-assets, storage systems, and expanded transmission networks (IPCC,
-2022).
+It’s not just energy abundance in the form of solar and wind, which are both plentiful in principle.
 
-Such restructuring cannot occur instantaneously.
+It’s harvesting them that is the issue.
 
-------------------------------------------------------------------------
+Lithium is needed for lightweight batteries in transportation.
 
-### Conclusion
+The same is true for nickel and cobalt.
 
-Energy transitions are constrained by physical and industrial realities.
-Policy direction and financial capital are necessary but insufficient.
-Manufacturing capacity ultimately determines feasible deployment rates.
+Other rare earth minerals or elements like neodymium are needed for batteries and to make wind turbines more efficient.
 
-Accelerated expansion may compress historical timelines, but industrial
-systems exhibit inertia (Smil, 2017). Excessive delay increases
-cumulative emissions. Excessive haste risks supply fragility and
-geopolitical vulnerability.
+There’s only so much that can be mined in a day, only so much that can be refined and processed.
 
-The central challenge is to expand renewable manufacturing capacity
-rapidly while building resilient and diversified supply chains.
+And there’s only so much that can be extracted without serious environmental harm and degradation of natural systems like the Amazon, the Congo region, or the ocean floor.
 
-Decarbonization is not solely a technological substitution. It is a
-coordinated reorganization of global industrial systems.
+Finally, there are geopolitical considerations.
 
-------------------------------------------------------------------------
+The IRA in the U.S. put a major premium on domestic production across the supply chain.
 
-## References
+But this slowed down progress because there were certain components of energy systems that were not made in abundance in the U.S. or could not be sourced domestically at all.
 
-International Energy Agency. (2023). *The role of critical minerals in
-clean energy transitions*. IEA.
+That meant project managers for those renewable energy systems had to look farther afield and seek special exemptions.
 
-Intergovernmental Panel on Climate Change. (2022). *Climate change 2022:
-Mitigation of climate change (AR6 Working Group III)*. Cambridge
-University Press.
+All of that slowed down progress.
 
-Smil, V. (2017). *Energy transitions: Global and national perspectives*
-(2nd ed.). Praeger.
+Like I said before, when God wants to punish you, he gives you what you ask for.
 
-Smil, V. (2022). *Grand transitions: How the modern world was made*.
-Oxford University Press.
+There’s also a risk that our push to transition toward renewables, and to accelerate that transition, especially now at the time of this filming, when there is concern over oil not flowing out of the Strait of Hormuz, depends on mineral resources that are sometimes located in parts of the world with authoritarian regimes that we may not want to empower.
 
-Smil, V. (2017). *Energy and civilization: A history*. MIT Press.
+So right now, the transition is at a very unique point.
 
-U.S. Geological Survey. (2023). *Mineral commodity summaries 2023*. U.S.
-Department of the Interior.
+It’s gaining momentum.
+
+And honestly, I’m personally less concerned about speed than I am about stability.
+
+Scaling up too quickly with cheap, short-lasting solutions, just to feel good about transitioning toward renewables, will, in my view, backfire in the long run when people become fed up with unreliable systems or when they fail after three or four years.
+
+Not only that, building the infrastructure, as I’ve said before, requires us to use fossil fuels.
+
+In the long term, more coordinated deployment would be better, where investments first go into building the low-carbon infrastructure needed to build more low-carbon infrastructure.
+
+That’s not really what we’re doing.
+
+Still, to my previous point, IRENA shows record renewable growth, and even then, we’re not on track to meet 1.5 degrees Celsius.
+
+But let’s say all of these things align—policy, capital, and public will, as we discussed in the previous lesson, as well as manufacturing—and through good project design and project management, we eliminate bottlenecks.
+
+Now the question is no longer how quickly we can do this, but what the costs are: environmental, political, social, geopolitical, and economic.
+
+What are the unintended consequences?
