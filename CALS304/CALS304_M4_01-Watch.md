@@ -4,7 +4,7 @@ I spent one year, from 2021 to 2022, living in Sweden with my family.
 
 We got back to the U.S. on August 1st, and two weeks later the Inflation Reduction Act was signed into law by Joe Biden on August 16th, 2022.
 
-I was teaching the big climate energy class for the first time in person in two years, and I quipped to the TA, “When God wants to punish us, he answers our prayers,” a line that I think is attributable to Oscar Wilde.
+I was teaching the big climate energy class for the first time in person in two years, and I quipped to the TA, “When God wants to punish us, he answers our prayers.”
 
 I say this because when the IRA passed, it caught a lot of folks off guard, and many of my colleagues in the renewable energy world were underprepared for the influx of capital to invest in renewables.
 
