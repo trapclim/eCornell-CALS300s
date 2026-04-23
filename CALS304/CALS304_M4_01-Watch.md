@@ -1,72 +1,135 @@
 # Global Energy Transitions and Climate Stabilization
 
-Stabilizing the climate ultimately requires stabilizing atmospheric
-carbon dioxide concentrations. Because fossil fuels still supply most of
-the world's primary energy, any meaningful climate stabilization effort
-must involve deep changes to global energy systems (Smil, 2017; Smil,
-2017a). In this context, "energy transitions" refers not merely to
-shifts among fuels, but to structural reorganizations of the
-foundational sources that power economic and social activity.
+I spent one year, from 2021 to 2022, living in Sweden with my family.
 
-Vaclav Smil describes historical energy transitions as protracted,
-civilizational-scale processes rooted in the physical properties of
-energy systems themselves (Smil, 2017; Smil, 2017a). For millennia,
-societies relied on low-density biomass---wood, muscle, and early wind
-and water power. Coal's higher energy density enabled industrialization
-and mechanized production; oil's portability transformed transportation
-and global trade; and later developments in natural gas and electricity
-further expanded energy availability (Smil, 2017). These shifts were not
-simple substitutions---each new source was added to existing systems,
-resulting in an overall expansion of total energy use rather than an
-outright replacement of older fuels (Smil, 2017a).
+We got back to the U.S. on August 1st, and two weeks later the Inflation Reduction Act was signed into law by Joe Biden on August 16th, 2022.
 
-Indeed, global primary energy consumption has grown continuously for
-centuries, reflecting a cumulative layering of energy sources. Rather
-than "switching" cleanly from wood to coal, or coal to oil, these
-transitions unfolded over decades or longer, as new infrastructure was
-built and integrated with existing capital stock (Smil, 2017a; Smil,
-2017).
+I was teaching the big climate energy class for the first time in person in two years, and I clipped to the TA, “When God wants to punish us, he answers our prayers,” a line that I think is attributable to Oscar Wilde.
 
-The pace of these transitions is deeply shaped by the inertia of
-infrastructure. Energy systems are embodied in long-lived physical
-assets---mines, refineries, power stations, transmission networks,
-pipelines, and fleets of vehicles---that can remain in use for
-generations (Smil, 2017a). Because of this infrastructural persistence,
-transitions historically took many decades to unfold, and previous
-dominant fuels continued supplying substantial shares of energy well
-after alternatives became available.
+I say this because when the IRA passed, it caught a lot of folks off guard, and many of my colleagues in the renewable energy world were underprepared for the influx of capital to invest in renewables.
 
-What makes the present moment distinct is the intentionality and
-constraint driving change. Past transitions were largely
-opportunity-driven---a new source offered higher energy density, lower
-cost, or greater convenience. Today's transition is driven by the need
-to avoid catastrophic climate change by reducing fossil fuel combustion
-before geological scarcity forces decline (Smil, 2017; Smil, 2017a).
-This constraint imposes a subtractive logic: not merely supplementing
-fossil fuels with low-carbon sources but deliberately reducing their
-absolute use on decades-short timescales.
+For two decades, there had been nothing like it.
 
-Such a pace and directionality have no direct precedent in the
-historical record. While Smil does not dismiss the possibility of
-accelerating change, his analysis underscores the structural and
-material challenges inherent to energy transitions---challenges rooted
-in physical capital turnover, economic systems, and material supply
-chains (Smil, 2017a). Understanding these constraints helps calibrate
-expectations and ground energy policy in realistic timelines and
-resource requirements.
+In fact, there’s probably never been another piece of climate legislation as sweeping in its scale, scope, and long-term commitment.
 
-This perspective matters because the challenge is not simply to discover
-cleaner fuels, but to reshape capital-intensive systems at global scale
-while maintaining modern material standards of living. Whether this
-acceleration is achievable depends on sustained innovation, policy
-frameworks, and economic choices that recognize the inertia of existing
-energy systems.
+Yet almost as soon as it passed, we started to see environmental groups in conflict with climate action groups over where we could actually build infrastructure, or where we could mine for lithium, cobalt, and other rare earth elements.
 
-------------------------------------------------------------------------
+You saw progressive groups, typically in favor of regulation, frustrated by permitting delays and regulatory bottlenecks, which before then had typically been the domain of conservatives.
 
-## References
+I was again reminded of my grandfather, a self-claimed Goldwater Republican, and what he’d said during the first Bush administration, which is that a conservative approach to climate change would get rid of the red tape, get rid of the government regulations, and let renewables compete as quickly as possible in the open market.
 
-Smil, V. (2017). *Energy and civilization: A history*. MIT Press.
+For anyone interested in doing a deep dive into energy transitions, I can’t recommend the work of Vaclav Smil enough.
 
-Smil, V. (2017a). *Energy transitions: Global and national perspectives*
-(2nd ed.). Bloomsbury Academic.
+But for those of you not inclined to read his many interesting papers and books, I’ll try to highlight some key ideas right here, now.
+
+On global scales, energy transitions unfold slowly, but on regional and national scales they can happen a lot more quickly, as long as public will, public policy, and capital from industry all reinforce each other.
+
+When those three line up, we can see exponential growth in deployments of new energy resources.
+
+But when they’re misaligned, things slow down or stall out entirely.
+
+We can see this in a few case studies.
+
+Let’s look at hydropower.
+
+Early in the 20th century, with government investments and private capital flowing into it, it expanded quite rapidly.
+
+Woody Guthrie wrote a song about it: “Roll on, Columbia, roll on.”
+
+The public saw it as a step forward: reliable, modern, powerful.
+
+And it worked, delivering electricity at unprecedented scales.
+
+The world started catching up, but soon the physical constraints of geography started to take over, because to have hydropower you really need two things: a topographic gradient and a moist environment.
+
+Environmental impacts became harder to ignore.
+
+The effects on salmon fisheries in the Northwest, for example, garnered a lot of attention.
+
+Communities were displaced.
+
+People started pushing back.
+
+And before long, the growth slowed down, even though the technology was maturing, because there just weren’t very many large-scale water resources left that could be dammed.
+
+Environmental protection stepped in to maintain systems as they were and to block new dams.
+
+The world’s last major, I should say massive, hydropower investment was the Three Gorges Dam in China, a whopping 2,000-terawatt facility.
+
+A similar story played out with nuclear energy, but for different reasons.
+
+In the 1950s, there was real momentum in the U.S., the U.K., parts of Western Europe, and Japan, with strong policy support, significant capital investment, and public enthusiasm.
+
+People were predicting then that by 1999, the end of the century, all electricity would be generated by nuclear power.
+
+Then there was Three Mile Island, followed by Chernobyl a few years later, and Fukushima in 2011 put the nail in the coffin.
+
+The public reacted.
+
+Investors got skittish.
+
+The costs of uranium became more challenging, and so nuclear power was no longer marketable.
+
+Projects required substantial upfront investment, and for investors and industries to be willing to front those costs, they needed more assurances from government and from public policy, which depends on public will.
+
+That was enough to keep investment going in other parts of the world, but not in the U.S.
+
+Right now, nuclear supports, and has supported, about 10% of the world’s electricity production.
+
+Just one-tenth of what was forecasted three-quarters of a century ago.
+
+And there’s natural gas, which has been stalled out and shows no signs of slowing down or stopping anytime soon.
+
+It has benefited from a relatively stable regulatory policy environment, and it’s gone under the radar, even when it has caused disruptions to community health.
+
+Methane leaks have garnered national and international attention.
+
+The Obama administration followed essentially the Bush administration’s lead on hydrofracking.
+
+And they believed, whether this was convenient or whether they did not know any better is unclear, that natural gas was a good transition fuel because the carbon intensity is lower than oil or coal.
+
+Per unit of heat that you produce with natural gas, you release fewer CO2 molecules into the atmosphere.
+
+The problem is methane is a more potent greenhouse gas, and if methane leaks, you’re not getting any benefit from the reduced carbon intensity.
+
+On top of all that, once the infrastructure is built, households, cities, and industries come to rely on natural gas pipelines, storage facilities, and export-import terminals.
+
+The most recent substantial energy transition we’ve experienced as a civilization, and in most nations, has been from oil to natural gas in the last two and a half decades.
+
+And that leaves us with renewables.
+
+And, I think, an urgency to understand what worked in the past, what didn’t, and why.
+
+On top of policy, public support, and private investment, we’re going to need considerable amounts of earth materials, steel, trace elements, concrete, and more just to build the renewable energy infrastructure.
+
+And we’re already seeing solar panels and wind farms trigger ire in the public eye.
+
+Some people just don’t like how wind farms look.
+
+Other people don’t like seeing solar panels covering once-bucolic farmland.
+
+A former student of mine from the Dominican Republic told me that when a hurricane made landfall there, it wiped out large tracts of solar farms, shattered the glass, washed toxic chemicals from those farms into nearby streams and rivers, and soured public opinion on solar.
+
+None of it needs to be this way, but these are the risks.
+
+We want an energy system that doesn’t release CO2 into the atmosphere.
+
+We want to build it off solar and wind.
+
+We’ve got to add one more component to our list of bottlenecks.
+
+I already discussed the diffuse energy source, as well as the problem of storage and intermittency.
+
+Now we need to think about public opinion, cost, and investment.
+
+We’re also going to have to address the reality that every other energy transition went from energy sources that were easier to control, more dense, to more dense ones.
+
+Biomass to charcoal, charcoal to oil, oil to gas, oil to nuclear, oil to hydropower.
+
+They all represented an increase in usability or in the energy density of energy production.
+
+Renewables are unique in that they are more akin to the world of our ancestors, where energy was variable, intermittent, and diffuse.
+
+We have to manage public support for the physical infrastructure.
+
+Otherwise, the transition to renewables will go down as another failed transition.
